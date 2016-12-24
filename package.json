@@ -1,0 +1,28 @@
+{
+  "name": "bot44-sleep",
+  "version": "1.0.0",
+  "description": "sleep",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bot44/sleep.git"
+  },
+  "author": "jKey Lu <jkeylu@gmail.com> (https://github.com/jkeylu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bot44/sleep/issues"
+  },
+  "homepage": "https://github.com/bot44/sleep#readme",
+  "dependencies": {
+    "long-timeout": "^0.1.1"
+  },
+  "keywords": [
+    "bot",
+    "bot44",
+    "sleep"
+  ]
+}
